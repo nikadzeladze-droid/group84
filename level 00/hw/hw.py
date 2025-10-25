@@ -7,7 +7,7 @@ from turtle import *
 
 width(4)
 
-color("blue")
+color("red")
 
 forward(200)
 
